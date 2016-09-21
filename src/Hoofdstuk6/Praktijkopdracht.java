@@ -1,7 +1,7 @@
 package Hoofdstuk6;
 
-import java.applet.*;
-import java.awt.Graphics;
+        import java.applet.*;
+        import java.awt.Graphics;
 @SuppressWarnings("serial")
 
 public class Praktijkopdracht extends Applet

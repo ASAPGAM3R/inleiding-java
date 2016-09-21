@@ -1,7 +1,7 @@
 package Hoofdstuk6;
 
 import java.awt.*;
-import java.applet.*;
+        import java.applet.*;
 
 
 public class Opdracht1 extends Applet{
