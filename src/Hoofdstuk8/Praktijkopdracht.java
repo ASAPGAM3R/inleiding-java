@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import java.applet.*;
 
 @SuppressWarnings("serial")
-public class Opdracht4 extends Applet
+public class Praktijkopdracht extends Applet
 {
 
     TextField vak1;
