@@ -11,7 +11,7 @@ public class Opdracht2 extends Applet
     }
     public void paint(Graphics g)
     {
-        tekendriehoek(g,20,80,20,40,40,60);
+        tekendriehoek(g,50,200,150,200,100,120);
     }
     void tekendriehoek(Graphics g, int x1, int y1, int x2, int y2, int x3, int y3)
     {

@@ -12,7 +12,7 @@ public class Opdracht3 extends Applet
     {
         for(int teller=0; teller <10; teller++)
         {
-            for(int teller1=0; teller1<10; teller1++)
+            for(int teller1=0; teller1 <10; teller1++)
             {
                 tekensteen(g, teller*22+10*(teller1%2),teller1*12);
             }
